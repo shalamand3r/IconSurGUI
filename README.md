@@ -40,7 +40,15 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 ### 1. Download and install the latest release of IconSurGUI from here: https://github.com/salameanon/IconSurGUI/releases
 
-###### Make sure you either Control+Click (Right click) the package and press "Open" to bypass the unknown developer message. Alternatively, you can open Settings, go to Security and Privacy, and press "Open Anyway." Do **NOT*** move IconSurGUI to the trash.
+##### Make sure you either Control+Click (Right click) the package and press "Open" to bypass the unknown developer message. Alternatively, you can open Settings, go to Security and Privacy, and press "Open Anyway." Do **NOT** move IconSurGUI to the trash.
+
+### 2. If you haven't already, download the latest release of IconSur from Rikumi's github. You can alternatively open IconSurGUI and it will prompt you to download IconSur. 
+
+##### Make sure to leave IconSur in your Downloads folder.
+
+### 3. Run IconSurGUI and choose from one of the options - simple as that
+
+##### For more info on what the options do, scroll down to the *Modes* section of this readme.
 
 ------------------------------------------------------------------
 
