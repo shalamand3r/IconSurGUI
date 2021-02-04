@@ -2,7 +2,11 @@
 
 ###### Please let me know if you would like me to take this down or credit you in any other ways.
 
-##### Original Description: (https://github.com/rikumi/iconsur)
+#### Original Description: (https://github.com/rikumi/iconsur)
+
+<span align="center">
+
+# IconSur: macOS Big Sur Adaptive Icon Generator
 
 <a href="https://www.npmjs.com/package/iconsur"><img title="npm version" src="https://badgen.net/npm/v/iconsur" ></a>
 <a href="https://www.npmjs.com/package/iconsur"><img title="npm downloads" src="https://badgen.net/npm/dt/iconsur" ></a>
@@ -16,6 +20,7 @@
 
 The generation is based on the most related iOS app from the App Store, or, if there isn't one, is created from the original icon, in which case the background color and the scaling can be customized.
 
+![image](https://user-images.githubusercontent.com/5051300/85926574-ebfb9d80-b8d2-11ea-836b-28e38d1f3447.png)
 ![image](https://user-images.githubusercontent.com/5051300/85926574-ebfb9d80-b8d2-11ea-836b-28e38d1f3447.png)
 
 ------------------------------------------------------------------
