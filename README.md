@@ -46,11 +46,21 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 ###### Make sure to leave IconSur in your Downloads folder.
 
-### 3. Run IconSurGUI and choose from one of the options - simple as that
+### 3. Run IconSurGUI and choose from one of the options - simple as that!
 
 ###### For more info on what the options do, scroll down to the *Modes* section of this readme.
 
 ------------------------------------------------------------------
+
+
+
+# MODES:
+
+### Custom Image 📁  - Allows you to choose a custom image to be resized and fitted to BigSur's new app shape, and then applied to your app of choice.
+
+### iOS AppStore Icon Downloader 🛍 - Allows you to search the iOS AppStore for an icon matching your app choice's name. If no (relevant) results are found, your app will be resized with a white boarder surrounding it.
+
+###### For example, if I choose "Zoom" as my app choice, IconSur will look through the iOS's AppStore for an app called "Zoom" and then apply its icon to the "Zoom" app on my Mac.
 
 # FAQ:
 
@@ -61,7 +71,3 @@ Q) Why do I need another iconsur-named file in my downloads to run IconsurGUI?
 A) IconSurGUI works by using Rikumi's IconSur to resize apps. It provides a simple interface which allows you to use IconSur without the hassle of using terminal and typing commands out. It's as simple as picking an app and pressing OK.
 
 ------------------------------------------------------------------
-
-# MODES:
-
-### Custom Image - Allows you to choose 
