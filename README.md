@@ -56,10 +56,9 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 # MODES:
 
-### Custom Image 📁  - Allows you to choose a custom image to be resized and fitted to BigSur's new app shape, and then applied to your app of choice.
+#### Custom Image 📁  - Allows you to choose a custom image to be resized and fitted to BigSur's new app shape, and then applied to your app of choice.
 
-### iOS AppStore Icon Downloader 🛍 - Allows you to search the iOS AppStore for an icon matching your app choice's name. If no (relevant) results are found, your app will be resized with a white boarder surrounding it.
-
+#### iOS AppStore Icon Downloader 🛍 - Allows you to search the iOS AppStore for an icon matching your app choice's name. If no (relevant) results are found, your app will be resized with a white boarder surrounding it.
 ###### For example, if I choose "Zoom" as my app choice, IconSur will look through the iOS's AppStore for an app called "Zoom" and then apply its icon to the "Zoom" app on my Mac.
 
 # FAQ:
