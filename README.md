@@ -1,7 +1,7 @@
 ## "IconSur: macOS Big Sur Adaptive Icon Generator"
 
 
-### IconsurGUI turns the command line tool into a simple applescript applet that adds a usable interface to Rikumi's iconsur.
+###### IconsurGUI turns the command line tool into a simple applescript applet that adds a usable interface to Rikumi's iconsur.
 
 <a href="https://www.npmjs.com/package/iconsur"><img title="npm version" src="https://badgen.net/npm/v/iconsur" ></a>
 <a href="https://www.npmjs.com/package/iconsur"><img title="npm downloads" src="https://badgen.net/npm/dt/iconsur" ></a>
