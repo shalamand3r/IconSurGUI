@@ -1,9 +1,21 @@
-# Iconsur GUI:
-## "IconSur: macOS Big Sur Adaptive Icon Generator
-npm version npm downloads github commits
-iconsur is a command line tool to easily generate macOS Big Sur styled adaptive icons for third-party apps.
+## "IconSur: macOS Big Sur Adaptive Icon Generator"
 
-The generation is based on the most related iOS app from the App Store, or, if there isn't one, is created from the original icon, in which case the background color and the scaling can be customized." (https://github.com/rikumi/iconsur)
+
+### IconsurGUI turns the command line tool into a simple applescript applet that adds a usable interface to Rikumi's iconsur.
+
+<a href="https://www.npmjs.com/package/iconsur"><img title="npm version" src="https://badgen.net/npm/v/iconsur" ></a>
+<a href="https://www.npmjs.com/package/iconsur"><img title="npm downloads" src="https://badgen.net/npm/dt/iconsur" ></a>
+<a href="https://github.com/rikumi/iconsur/commit"><img title="github commits" src="https://badgen.net/github/last-commit/rikumi/iconsur" ></a>
+
+</p>
+
+</span>
+
+`iconsur` is a command line tool to easily generate macOS Big Sur styled adaptive icons for third-party apps.
+
+The generation is based on the most related iOS app from the App Store, or, if there isn't one, is created from the original icon, in which case the background color and the scaling can be customized.
+
+![image](https://user-images.githubusercontent.com/5051300/85926574-ebfb9d80-b8d2-11ea-836b-28e38d1f3447.png)
 
 ### IconsurGUI turns the command line tool into a simple applescript applet that adds a usable interface to Rikumi's iconsur.
 
