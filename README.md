@@ -1,10 +1,11 @@
-## IconSurGUI: Turns the Command Line Tool "IconSur" into a simple applescript applet which adds a usable interface to Rikumi's iconsur (https://github.com/rikumi/iconsur)
+## IconSurGUI: Turns the Command Line Tool "IconSur" into a simple applescript applet which adds a usable interface to Rikumi's IconSur 
+##### (https://github.com/rikumi/iconsur)
 
 ###### Please let me know if you would like me to take this down or credit you in any other ways.
 
-#### Original Description: (https://github.com/rikumi/iconsur)
-
 <span align="center">
+
+#### Original Description: (https://github.com/rikumi/iconsur/blob/master/README.md)
 
 # IconSur: macOS Big Sur Adaptive Icon Generator
 
