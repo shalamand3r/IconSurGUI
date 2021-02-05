@@ -8,7 +8,6 @@
 
 <span align="center">
 
-
 ------------------------------------------------------------------
 
 ### Original Description: (https://github.com/rikumi/iconsur/blob/master/README.md)
@@ -60,6 +59,11 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 #### Resize Current App Icon 🤏 - Takes the chosen app and resizes it with a white border to fit BigSur's icon shape. 
 ###### Custom colors probably coming soon unless I forget about this project...
+
+#### Modify a System App Copy 📝 - Since you can't modify System Apps due to the root volume being Read-Only, this feature (COMING SOON) will allow you to make a copy of the System app and modify the icon.
+###### For example, if you choose "AppStore" 
+
+------------------------------------------------------------------
 
 # FAQ:
 
