@@ -65,8 +65,13 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 ------------------------------------------------------------------
 
-Q) Why do I need another iconsur-named file in my downloads to run IconsurGUI?
+Q) Why does it say I need to download the "IconSur Binary?"
 
-A) IconSurGUI works by using Rikumi's IconSur to resize apps. It provides a simple interface which allows you to use IconSur without the hassle of using terminal and typing commands out. It's as simple as picking an app and pressing OK.
+A) You are using an older version of IconSurGUI. Download the latest release here: https://github.com/salameanon/IconSurGUI/releases
 
 ------------------------------------------------------------------
+
+Q) Every time I start IconSurGUI it gives me an error "Hmm..." with a message saying it couldn't find the IconSur binary.
+
+A) A hidden file named "IconSur" is in the "Resources" folder of IconSurGUI. You probably deleted the file or I forgot to bundle it with the latest release. Simply download IconSur again from Rikumi's github and replace the file located in IconSurGUI->Contents->Resources.
+###### To get to the package contents of IconSurGUI, right click the application and press "Show Package Contents"
