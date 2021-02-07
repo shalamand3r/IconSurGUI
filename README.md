@@ -54,29 +54,29 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 #### Custom Image 📁 - Allows you to choose a custom image to be resized and fitted to BigSur's new app shape, and then applied to your app of choice.
 
-#### iOS AppStore Icon Downloader 🛍 - Allows you to search the iOS AppStore for an icon matching your app choice's name. If no (relevant) results are found, your app will be resized with a white boarder surrounding it.
+#### iOS AppStore Icon Downloader 🛍  - Allows you to search the iOS AppStore for an icon matching your app choice's name. If no (relevant) results are found, your app will be resized with a white boarder surrounding it.
 ###### For example, if I choose "Zoom" as my app choice, IconSur will look through the iOS's AppStore for an app called "Zoom" and then apply its icon to the "Zoom" app on my Mac.
 
-#### Resize Current App Icon 🤏 - Takes the chosen app and resizes it with a white border to fit BigSur's icon shape. 
+#### Resize Current App Icon 🤏  - Takes the chosen app and resizes it with a white border to fit BigSur's icon shape. 
 ###### Custom colors probably coming soon unless I forget about this project...
 
-#### Modify a System App Copy 📝 - Since you can't modify System Apps due to the root volume being Read-Only, this feature (COMING SOON) will allow you to make a copy of the System app and modify the icon.
+#### Modify a System App Copy 📝  - Since you can't modify System Apps due to the root volume being Read-Only, this feature (COMING SOON) will allow you to make a copy of the System app and modify the icon.
 ###### For example, if you choose "AppStore" and try to change it's icon, 
 
-#### Extract App Icon 🔍 - (NOT MADE BY ME) Asks the user (you) to select an app, them extracts any icon files (.icns) and copies them into a folder created on the Desktop.
+#### Extract App Icon 🔍  - (NOT MADE BY ME) Asks the user (you) to select an app, them extracts any icon files (.icns) and copies them into a folder created on the Desktop.
 ###### If there are multiple .icns files, you will be prompted to choose which ones you want to extract. Additionally you can convert the .icns file to the .png format.
 
-#### Refresh Icon Cache 🌀 - Reloads Dock & Finder to forcefully update new app icons
+#### Refresh Icon Cache 🌀  - Reloads Dock & Finder to forcefully update new app icons
 ###### This happens automatically after every modification to an app icon made using IconSurGUI
 
-#### Reset App Icon 🔙 - Removes any custom icon the selected app has and replaces it with the .icns file inside of it's resources folder
+#### Reset App Icon 🔙  - Removes any custom icon the selected app has and replaces it with the .icns file inside of it's resources folder
 
-#### Help ❓ - Brings you to this README.md file
+#### Help ❓  - Brings you to this README.md file
 ###### A possible built in FAQ section might come in a future version...
 
 #### Download Iconsur ⬇️  - Directly downloads Rikumi's Iconsur command line tool.
 
-#### Delete Iconsur 🚫 - A built in option to remove IconSurGUI
+#### Delete Iconsur 🚫  - A built in option to remove IconSurGUI
 ###### This won't affect any custom icons on your apps.
 
 ------------------------------------------------------------------
