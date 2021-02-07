@@ -54,7 +54,9 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 ------------------------------------------------------------------
 
-#### Custom Image 📁 — Allows you to choose a custom image to be resized and fitted to BigSur's new app shape, and then applied to your app of choice.
+#### Custom Image 📁 — Allows you to choose a custom image to be resized and fitted to BigSur's app shape, and then applied to your app of choice.
+
+------------------------------------------------------------------
 
 #### iOS AppStore Icon Downloader 🛍
 ##### Allows you to search the iOS AppStore for an icon matching your app choice's name. If no (relevant) results are found, your app will be resized with a white boarder surrounding it.
@@ -114,11 +116,6 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 Q) Why does it say I need to download the "IconSur Binary?"
 
-A) You are using an older version of IconSurGUI. Download the latest release here: https://github.com/salameanon/IconSurGUI/releases
+A) You are using an older version of IconSurGUI or you modified IconSurGUI's resources folder. (Re)Download the latest release here: https://github.com/salameanon/IconSurGUI/releases
 
 ------------------------------------------------------------------
-
-Q) Every time I start IconSurGUI it gives me an error "Hmm..." with a message saying it couldn't find the IconSur binary.
-
-A) A hidden file named "IconSur" is in the "Resources" folder of IconSurGUI. You probably deleted the file or I forgot to bundle it with the latest release. Simply download IconSur again from Rikumi's github and replace the file located in IconSurGUI->Contents->Resources.
-###### To get to the package contents of IconSurGUI, right click the application and press "Show Package Contents"
