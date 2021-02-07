@@ -1,6 +1,6 @@
 # IconSurGUI
 
-## Turns the Command Line Tool "IconSur" into a simple applescript applet which adds a usable interface to Rikumi's IconSur. (You press a button, it handles the command for you)
+## Incorporates the Command Line Tool "IconSur" into a simple applescript applet which adds a usable interface to Rikumi's IconSur. (You press a button, it handles the command for you)
 
 #### (https://github.com/rikumi/iconsur)
 
@@ -61,7 +61,23 @@ The generation is based on the most related iOS app from the App Store, or, if t
 ###### Custom colors probably coming soon unless I forget about this project...
 
 #### Modify a System App Copy 📝 - Since you can't modify System Apps due to the root volume being Read-Only, this feature (COMING SOON) will allow you to make a copy of the System app and modify the icon.
-###### For example, if you choose "AppStore" 
+###### For example, if you choose "AppStore" and try to change it's icon, 
+
+#### Extract App Icon 🔍 - (NOT MADE BY ME) Asks the user (you) to select an app, them extracts any icon files (.icns) and copies them into a folder created on the Desktop.
+###### If there are multiple .icns files, you will be prompted to choose which ones you want to extract. Additionally you can convert the .icns file to the .png format.
+
+#### Refresh Icon Cache 🌀 - Reloads Dock & Finder to forcefully update new app icons
+###### This happens automatically after every modification to an app icon made using IconSurGUI
+
+#### Reset App Icon 🔙 - Removes any custom icon the selected app has and replaces it with the .icns file inside of it's resources folder
+
+#### Help ❓ - Brings you to this README.md file
+###### A possible built in FAQ section might come in a future version...
+
+#### Download Iconsur ⬇️  - Directly downloads Rikumi's Iconsur command line tool.
+
+#### Delete Iconsur 🚫 - A built in option to remove IconSurGUI
+###### This won't affect any custom icons on your apps.
 
 ------------------------------------------------------------------
 
