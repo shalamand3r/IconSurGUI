@@ -54,7 +54,8 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 ------------------------------------------------------------------
 
-#### Custom Image 📁 — Allows you to choose a custom image to be resized and fitted to BigSur's app shape, and then applied to your app of choice.
+#### Custom Image 📁 
+#####Allows you to choose a custom image to be resized and fitted to BigSur's app shape, and then applied to your app of choice.
 
 ------------------------------------------------------------------
 
