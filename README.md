@@ -72,8 +72,8 @@ The generation is based on the most related iOS app from the App Store, or, if t
 ------------------------------------------------------------------
 
 #### Modify a System App Copy 📝
-##### Since you can't modify System Apps due to the root volume being Read-Only, this feature (COMING SOON) will allow you to make a copy of the System app and modify the icon.
-###### For example, if you choose "AppStore" and try to change it's icon, this option will make a COPY of it and modify its icon since you can't modify system icons. From there you can proceed to drag that icon to your dock, launchpad, etc.
+##### Since you can't modify System Apps due to the root volume being Read-Only, this feature allows you to make a copy of the System app and modify the icon.
+###### For example, if you choose "AppStore" and try to change it's icon, this option will make a COPY of it and modify its icon since you can't modify system icons. From there you can proceed to drag that icon to your dock, launchpad, etc. This is also useful if you don't have administrator permissions on your user account and want to have custom icons.
 
 ------------------------------------------------------------------
 
