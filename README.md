@@ -100,14 +100,21 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 ------------------------------------------------------------------
 
-#### Download Iconsur ⬇️
-##### Directly downloads Rikumi's Iconsur command line tool.
+#### Download BigSur Icons ⬇️
+##### Redirects to a HUGE collection of community made BigSur icons at https://macosicons.com/
+###### THIS ISN'T MADE BY ME!!
 
 ------------------------------------------------------------------
 
-#### Delete Iconsur 🚫
+#### Delete IconSur 🚫
 ##### A built in option to remove IconSurGUI
 ###### This won't affect any custom icons on your apps.
+
+------------------------------------------------------------------
+
+#### Submit Feedback 📩
+##### Directs you to issue report templates where you can submit feedback, report a bug, request a feature, etc.
+###### You need a GitHub account to access these templates and submit feedback.
 
 ------------------------------------------------------------------
 
