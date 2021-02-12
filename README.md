@@ -118,6 +118,12 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 ---
 
+Q) Why does it say I can't open the app because it's from an unknown developer?
+
+A) You need to control+click (right click) the downloaded package and select "open" to bypass GateKeeper. Additionally, you can open the Security and Privacy pane of System Preferences and press "Open Anyway"
+
+---
+
 Q) Why does it say I need to download the "IconSur Binary?"
 
 A) You are using an older version of IconSurGUI or you modified IconSurGUI's resources folder. (Re)Download the latest release here: https://github.com/salameanon/IconSurGUI/releases
