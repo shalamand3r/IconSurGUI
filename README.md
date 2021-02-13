@@ -63,7 +63,6 @@ The generation is based on the most related iOS app from the App Store, or, if t
 
 #### Resize Current App Icon 🤏
 ##### Takes the chosen app and resizes it with a white border to fit BigSur's icon shape. 
-###### Custom colors probably coming soon unless I forget about this project...
 
 ---
 
